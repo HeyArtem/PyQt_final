@@ -1,7 +1,7 @@
 # PyQt5. <br/>Тестовое задание.
 
 
-![alt-текст](https://github.com/HeyArtem/HeyArtem/PyQt_final/additional_materials/pyqt5.png "logo")
+![logo PyQt5](https://github.com/HeyArtem/PyQt_final/blob/master/additional_materials/pyqt5.png)
 
 
 ## Описание:
