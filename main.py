@@ -1,7 +1,3 @@
-# pip install pyqt5
-# pip install pymupdf
-# pip install pillow
-
 import sys
 import fitz
 
